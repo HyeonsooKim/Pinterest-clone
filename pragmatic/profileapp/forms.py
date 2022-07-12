@@ -1,6 +1,6 @@
 from django.forms import ModelForm
 
-from pragmatic.profileapp.models import Profile
+from profileapp.models import Profile
 
 
 
